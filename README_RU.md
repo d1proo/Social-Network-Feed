@@ -4,10 +4,11 @@ iOS приложение для отображения ленты новосте
 
 ## 📱 Скриншоты приложения
 
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-22 at 00 29 19" src="https://github.com/user-attachments/assets/f1919262-3d52-419f-ac89-d3edab2be7b2" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-22 at 00 31 29" src="https://github.com/user-attachments/assets/137b5337-9f7c-4930-b542-60291f6ba11b" />
-<img width="1320" height="2868" alt="Simulator Screenshot - iPhone 17 Pro Max - 2025-11-22 at 00 31 50" src="https://github.com/user-attachments/assets/887462ab-4ac1-4c4b-9ffb-8c89fdee58a6" />
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f1919262-3d52-419f-ac89-d3edab2be7b2" width="30%" alt="Main Feed Screen"/>
+  <img src="https://github.com/user-attachments/assets/137b5337-9f7c-4930-b542-60291f6ba11b" width="30%" alt="Loading State"/>  
+  <img src="https://github.com/user-attachments/assets/887462ab-4ac1-4c4b-9ffb-8c89fdee58a6" width="30%" alt="Pull to Refresh"/>
+</div>
 
 ## 🏗 Архитектура
 
